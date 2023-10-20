@@ -16,4 +16,4 @@
     - npm install react-router-dom
 
 3. GitHub Pages
-    - npm install gh-pages --save-dev# team-app-website
+    - npm install gh-pages --save-dev
